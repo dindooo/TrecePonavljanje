@@ -1,0 +1,8 @@
+C:\Users\ucenik\source\repos\VjezbaTreca\bin\Debug\VjezbaTreca.exe.config
+C:\Users\ucenik\source\repos\VjezbaTreca\bin\Debug\VjezbaTreca.exe
+C:\Users\ucenik\source\repos\VjezbaTreca\bin\Debug\VjezbaTreca.pdb
+C:\Users\ucenik\source\repos\VjezbaTreca\obj\Debug\VjezbaTreca.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\VjezbaTreca\obj\Debug\VjezbaTreca.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\VjezbaTreca\obj\Debug\VjezbaTreca.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\VjezbaTreca\obj\Debug\VjezbaTreca.exe
+C:\Users\ucenik\source\repos\VjezbaTreca\obj\Debug\VjezbaTreca.pdb
